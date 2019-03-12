@@ -18,7 +18,4 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
-* Add AzPowerShellModule tag to module
-
-## Version 1.0.0
-* General availability of `Az.StreamAnalytics` module
+* Add Uninstall-Az and Get-AzReleaseHighlights cmdlets

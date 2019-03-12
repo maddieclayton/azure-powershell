@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 
 ## Version 1.1.0
 * Additional support for New and Get ApplicationInsights data source.

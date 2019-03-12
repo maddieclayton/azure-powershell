@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 
 ## Version 0.7.1
 * Update incorrect online help URLs

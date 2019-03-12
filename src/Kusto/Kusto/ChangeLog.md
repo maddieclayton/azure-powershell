@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 
 ## Version 0.1.1
 * Capacity is a new and optional parameter for Create and Update Cluster.

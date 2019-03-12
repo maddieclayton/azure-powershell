@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 
 ## Version 1.0.1
 * Added new boolean property SkipEmptyArchives to Skip Empty Archives in CaptureDescription class of Eventhub 

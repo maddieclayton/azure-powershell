@@ -19,6 +19,7 @@
 -->
 
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 
 ## Version 0.1.0
 *Added new cmdlets for Advisor Recommendation

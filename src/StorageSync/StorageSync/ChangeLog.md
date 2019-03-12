@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 
 ## Version 0.8.0
 * Update all cmdlets required to manage StorageSync ARM resources.

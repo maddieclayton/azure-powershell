@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 
 ## Version 1.0.2
 * Add Encoding format to Add-IotHubRoutingEndpoint cmdlet.

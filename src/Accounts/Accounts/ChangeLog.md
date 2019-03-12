@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 
 ## Version 1.4.0
 * Add 'Register-AzModule' command to support AutoRest generated cmdlets

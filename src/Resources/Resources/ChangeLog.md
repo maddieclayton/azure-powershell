@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 * Update wildcard support for Get-AzResource and Get-AzResourceGroup
 
 ## Version 1.2.0

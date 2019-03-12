@@ -18,6 +18,7 @@
         - Additional information about change #1
 --->
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 * Add ResourceId parameter to Get-AzNetworkInterface
 * Improved error handling for Get-AzVpnClientRevokedCertificate, Get-AzVpnClientRootCertificate
 * Improved Subnet, Primary, PrivateIpAddressVersion parameters processing in

@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 
 ## Version 1.1.2
 * Fixed issue when retreiving certain monthly schedules in several Azure Automation cmdlets

@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Add AzPowerShellModule tag to module
 
 ## Version 0.10.3
 - Support Custom policy reports retrieval through the cmd-lets
