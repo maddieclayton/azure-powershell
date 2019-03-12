@@ -98,7 +98,7 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        Tags = 'Azure','ResourceManager','ARM','Maps','LBS','LocationBasedServices'
+        Tags = 'Azure','ResourceManager','ARM','Maps','LBS','LocationBasedServices','AzPowerShellModule'
 
         # A URL to the license for this module.
         LicenseUri = 'https://raw.githubusercontent.com/Azure/azure-powershell/preview/LICENSE.txt'

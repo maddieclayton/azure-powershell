@@ -98,7 +98,7 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        Tags = 'Azure','ResourceManager','ARM','MSI','ManagedServiceIdentity','Identity','UserAssignedIdentities','IAM'
+        Tags = 'Azure','ResourceManager','ARM','MSI','ManagedServiceIdentity','Identity','UserAssignedIdentities','IAM','AzPowerShellModule'
 
         # A URL to the license for this module.
         LicenseUri = 'https://aka.ms/azps-license'

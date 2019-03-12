@@ -69,10 +69,10 @@ RequiredAssemblies = @()
 NestedModules = @()
 
 # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
-FunctionsToExport = 'Get-AzReleaseHighlights'
+FunctionsToExport = 'Get-AzReleaseHighlights', 'Uninstall-Az'
 
 # Cmdlets to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no cmdlets to export.
-CmdletsToExport = 'Get-AzReleaseHighlights'
+CmdletsToExport = 'Get-AzReleaseHighlights', 'Uninstall-Az'
 
 # Variables to export from this module
 # VariablesToExport = @()
@@ -95,7 +95,7 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        Tags = 'Azure','ResourceManager','ARM','ModuleManagement'
+        Tags = 'Azure','ResourceManager','ARM','ModuleManagement','AzPowerShellModule'
 
         # A URL to the license for this module.
         LicenseUri = 'https://aka.ms/azps-license'

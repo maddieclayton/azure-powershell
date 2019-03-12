@@ -4,3 +4,4 @@ $PSDefaultParameterValues.Clear()
 Set-StrictMode -Version Latest
 
 . $PSScriptRoot\Cmdlets\Get-AzReleaseHighlights.ps1
+. $PSScriptRoot\Cmdlets\Uninstall-Az.ps1

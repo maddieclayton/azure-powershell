@@ -33,6 +33,11 @@ foreach ($ModuleManifest in $ModuleManifestFiles) {
     $Assemblies = $DependencyMap | Where-Object { $_.Directory.EndsWith($ModuleName) }
     Import-LocalizedData -BindingVariable ModuleMetadata -BaseDirectory $ModuleManifest.DirectoryName -FileName $ModuleManifest.Name
 
+    if (!$ModuleMetadata.PrivateData.PSData.Tags.Contains("AzPowerShellModule"))
+    {
+        throw "Missing 'AzPowerShellModule' tag in " + $ModuleName
+    }
+
     $LoadedAssemblies = @()
     if ($ModuleMetadata.RequiredAssemblies.Count -gt 0) {
         $LoadedAssemblies += $ModuleMetadata.RequiredAssemblies
