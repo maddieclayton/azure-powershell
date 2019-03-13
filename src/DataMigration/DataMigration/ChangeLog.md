@@ -19,3 +19,7 @@
 -->
 ## Upcoming Release
 * Add AzPowerShellModule tag to module
+
+## Version 0.7.2
+* Added `New-AzDataMigrationAzureActiveDirectoryApp` cmdlet
+    - Used as input for MI online sync migration

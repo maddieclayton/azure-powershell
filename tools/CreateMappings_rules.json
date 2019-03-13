@@ -45,8 +45,9 @@
     { "regex": "DataFactory", "group": "Data Factories", "alias": "Data Factories" },
     { "regex": "DataFactories", "group": "Data Factories", "alias": "Data Factories" },
 
+    { "regex": "StorageSync", "alias": "StorageSync" },
     { "regex": "Storage", "alias": "Storage" },
-
+	
     { "regex": "Relay", "alias": "Relay" },
 
     { "regex": "ServiceBus", "alias": "Service Bus" },
@@ -146,6 +147,6 @@
     { "regex": "Advisor", "alias": "Advisor" },
     { "regex": "MixedReality", "group": "Mixed Reality", "alias": "Mixed Reality" },
     { "regex": "SpatialAnchors", "group": "Mixed Reality", "alias": "Mixed Reality" },
-
-    { "regex": "ModuleManagement", "alias": "ModuleManagement" }
+    { "regex": "ModuleManagement", "alias": "ModuleManagement" },
+    { "regex": "Blueprint", "alias": "Blueprint" }
 ]
